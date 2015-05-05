@@ -1,2 +1,5 @@
-# android_aosp_device_samsung_jfltexx
-Device tree needed for compiling AOSP for GT-I9505. Big thanks to CM devs for the code.
+# AOSP device configuration for Samsung Galaxy S4 International
+
+by AntaresOne & BB
+
+Base code by The CyanogenMod Project - Copyright 2013-2015
