@@ -31,4 +31,4 @@ PRODUCT_MODEL := AOSP on GT-I9505 by Alu-Team
 $(call inherit-product, device/samsung/jfltexx/device.mk)
 
 ## (2) Also get non-open-source specific aspects if available
-$(call inherit-product-if-exists, vendor/samsung/jf-gsm-common/jf-gsm-common-vendor.mk)
+$(call inherit-product-if-exists, vendor/samsung/jf-common/jf-common-vendor.mk)
