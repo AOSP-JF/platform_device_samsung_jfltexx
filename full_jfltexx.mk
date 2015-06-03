@@ -25,7 +25,7 @@ PRODUCT_NAME := aosp_jfltexx
 PRODUCT_DEVICE := jfltexx
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
-PRODUCT_MODEL := AOSP on GT-I9505 by Alu-Team
+PRODUCT_MODEL := AOSP on GT-I9505 by JDCTeam
 
 # Inherit from jf-common
 $(call inherit-product, device/samsung/jfltexx/device.mk)
